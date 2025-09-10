@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 class Counter {
     private int count = 0;
+    //მასჰაა
 
     // synchronized ensures only one thread updates at a time
     public synchronized void increment() {
